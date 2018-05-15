@@ -4,12 +4,3 @@ source:
   git:
     url: https://github.com/openshiftio-vertx-boosters/vertx-http-booster-redhat
     ref: master
-environment:
-  staging:
-    source:
-      git:
-        ref: v12
-  production:
-    source:
-      git:
-        ref: v12
