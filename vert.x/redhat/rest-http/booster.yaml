@@ -2,5 +2,5 @@ name: Vert.x HTTP Booster
 description: Runs a Vert.x HTTP application
 source:
   git:
-    url: https://github.com/openshiftio-vertx-boosters/vertx-http-booster-redhat
+    url: https://github.com/ravsa/vertx-http-booster-redhat
     ref: master
