@@ -6,7 +6,7 @@ name: HTTP CRUD - Wildfly Swarm
 description: A simple CRUD applicaiton using Wildfly Swarm
 source:
   git:
-    url: https://github.com/wildfly-swarm-openshiftio-boosters/wfswarm-rest-http-crud-redhat
+    url: https://github.com/fabric8-analytics/wfswarm-blank-booster
     ref: master
 environment:
   staging:
